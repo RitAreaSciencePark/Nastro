@@ -34,4 +34,4 @@ def launch_run(samplesheet: Samplesheet):
         }    
     
     jenkins = Jenkins_trigger()
-    jenkins.start_job('prenassi/Pipeline_long_reads_MP/basecalling_pipeline', 'kuribo', jenkins_parameter)
+    jenkins.start_job('tolloi/Pipeline_long_reads/basecalling_pipeline', 'kuribo', jenkins_parameter)
