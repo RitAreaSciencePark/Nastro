@@ -2,7 +2,7 @@
     "index_host": "0",
     "port": "42837",
     "nodes_queue": [
-        "DGX", "DGX"
+        "H100", "H100"
     ],
     "nodes_list": [
         "dgx001", "dgx002"
